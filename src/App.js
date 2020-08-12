@@ -12,12 +12,21 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-
-        <Form>
+        <Form className="mb-2">
           <Form.Group>
             <Form.Label>Email Adress</Form.Label>
             <Form.Control type="email" placeholder="example@gmail.com" />
+            <Form.Text className="text-muted">
+              Make sure to use the right e-mail!
+            </Form.Text>
           </Form.Group>
+          <Form.Group>
+            <Form.Label>Password</Form.Label>
+            <Form.Control type="password" placeholder="cutedoggo1234" />
+          </Form.Group>
+          <Button variant="secondary" type="submit">
+            Login
+          </Button>
         </Form>
 
         <Card className="mb-3" style={{ color: "#000" }}>
@@ -34,7 +43,7 @@ function App() {
         </Breadcrumb>
 
         <Alert variant="primary">Hello World!</Alert>
-        <Button>Button</Button>
+        <Button variant="primary">Button</Button>
       </header>
     </div>
   );
