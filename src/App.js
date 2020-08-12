@@ -4,15 +4,28 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 // import Button from 'react-bootstrap/Button';
 
-import { Button, Alert } from 'react-bootstrap'
+import { Button, Alert, Breadcrumb, BreadcrumbItem, Card } from 'react-bootstrap'
 
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Alert>This is a button</Alert>
-        <Button>Test Button</Button>
+        <Card>
+          <Card.Img />
+          <Card.Body>
+            <Card.Title>My card</Card.Title>
+            <Card.Text>Welcome to my personal card</Card.Text>
+          </Card.Body>
+        </Card>
+        <Breadcrumb>
+          <BreadcrumbItem active>Aloha!</BreadcrumbItem>
+          <BreadcrumbItem>Bonjour!</BreadcrumbItem>
+          <BreadcrumbItem>Hola!</BreadcrumbItem>
+        </Breadcrumb>
+
+        <Alert variant="primary">Hello World!</Alert>
+        <Button>Button</Button>
       </header>
     </div>
   );
