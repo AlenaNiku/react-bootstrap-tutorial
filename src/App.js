@@ -12,8 +12,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Card style={{ color: "#000" }}>
-          <Card.Img src="https://picsum.photos/id/237/200/300" />
+        <Card className="mb-3" style={{ color: "#000" }}>
+          <Card.Img src="https://picsum.photos/id/237/200/200" />
           <Card.Body>
             <Card.Title>My card</Card.Title>
             <Card.Text>Welcome to my personal card</Card.Text>
