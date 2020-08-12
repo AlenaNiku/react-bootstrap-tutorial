@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Card>
+        <Card style= {{ color: "#000" }}>
           <Card.Img />
           <Card.Body>
             <Card.Title>My card</Card.Title>
