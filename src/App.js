@@ -13,14 +13,14 @@ function App() {
     <div className="App">
       <header className="App-header">
         <Form className="mb-2">
-          <Form.Group>
+          <Form.Group controlId="formEmail">
             <Form.Label>Email Adress</Form.Label>
             <Form.Control type="email" placeholder="example@gmail.com" />
             <Form.Text className="text-muted">
               Make sure to use the right e-mail!
             </Form.Text>
           </Form.Group>
-          <Form.Group>
+          <Form.Group controlId="formPassword">
             <Form.Label>Password</Form.Label>
             <Form.Control type="password" placeholder="cutedoggo1234" />
           </Form.Group>
