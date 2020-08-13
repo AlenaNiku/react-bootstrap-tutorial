@@ -14,17 +14,23 @@ function App() {
       <header className="App-header">
         <Container>
           <Form className="mb-2">
-            <Form.Group controlId="formEmail">
-              <Form.Label>Email Adress</Form.Label>
-              <Form.Control type="email" placeholder="example@gmail.com" />
-              <Form.Text className="text-muted">
-                Make sure to use the right e-mail!
-              </Form.Text>
-            </Form.Group>
-            <Form.Group controlId="formPassword">
-              <Form.Label>Password</Form.Label>
-              <Form.Control type="password" placeholder="cutedoggo1234" />
-            </Form.Group>
+            <Row>
+              <Col>
+                <Form.Group controlId="formEmail">
+                  <Form.Label>Email Adress</Form.Label>
+                  <Form.Control type="email" placeholder="example@gmail.com" />
+                  <Form.Text className="text-muted">
+                    Make sure to use the right e-mail!
+                  </Form.Text>
+                </Form.Group>
+              </Col>
+              <Col>
+                <Form.Group controlId="formPassword">
+                  <Form.Label>Password</Form.Label>
+                  <Form.Control type="password" placeholder="cutedoggo1234" />
+                </Form.Group>
+              </Col>
+            </Row>
             <Button variant="secondary" type="submit">
               Login
             </Button>
