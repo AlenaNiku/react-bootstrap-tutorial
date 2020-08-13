@@ -15,7 +15,7 @@ function App() {
         <Container>
           <Form className="mb-2">
             <Row>
-              <Col>
+              <Col md>
                 <Form.Group controlId="formEmail">
                   <Form.Label>Email Adress</Form.Label>
                   <Form.Control type="email" placeholder="example@gmail.com" />
@@ -24,7 +24,7 @@ function App() {
                   </Form.Text>
                 </Form.Group>
               </Col>
-              <Col>
+              <Col md>
                 <Form.Group controlId="formPassword">
                   <Form.Label>Password</Form.Label>
                   <Form.Control type="password" placeholder="cutedoggo1234" />
@@ -37,7 +37,7 @@ function App() {
           </Form>
 
           <Card className="mb-3" style={{ color: "#000" }}>
-            <Card.Img src="https://picsum.photos/id/237/200/200" />
+            <Card.Img src="https://picsum.photos/id/237/200/100" />
             <Card.Body>
               <Card.Title>My card</Card.Title>
               <Card.Text>Welcome to my personal card</Card.Text>
