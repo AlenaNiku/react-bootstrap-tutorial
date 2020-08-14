@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Welcome to React + Bootstrap Tutorial!
+![react-bootstrap-tutorial](https://github.com/AlenaNiku/react-bootstrap-tutorial/blob/master/github%20cover%20.png)
+
 
 ## Available Scripts
 
