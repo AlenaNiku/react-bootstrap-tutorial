@@ -1,6 +1,6 @@
 # Welcome to React + Bootstrap Tutorial! 🤓
 ![react-bootstrap-tutorial](https://github.com/AlenaNiku/react-bootstrap-tutorial/blob/master/github%20cover%20.png)
-### This is a practice project that helps us understand how to implement [**Bootstrap**](https://react-bootstrap.github.io/) with [**React**](https://reactjs.org/) application.
+### This is a practice project that helps us understand how to style [**React**](https://reactjs.org/) applications with [**Bootstrap**](https://react-bootstrap.github.io/) framework.
 
 #### Check out my blog post 👉 &nbsp;  <a href="https://medium.com/@alenanikulina0/style-react-apps-with-bootstrap-beginner-friendly-tutorial-e542a84d3309" target="_blank">Style React Apps with Bootstrap 🔥 (Beginner Friendly Tutorial)</a>
 
@@ -19,75 +19,30 @@
   
 - npm install bootstrap react-bootstrap
 
-
-
-
-
-
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Contributing
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+> To get started...
 
-### Analyzing the Bundle Size
+### Step 1
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+- **Option 1**
+    - 🍴 Fork this repo!
 
-### Making a Progressive Web App
+- **Option 2**
+    - 👯 Clone this repo to your local machine using `https://github.com/AlenaNiku/react-bootstrap-tutorial.git`
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+### Step 2
 
-### Advanced Configuration
+- **HACK AWAY!** 🔨🔨🔨
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+## License
 
-### Deployment
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
