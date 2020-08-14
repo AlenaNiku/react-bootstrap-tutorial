@@ -2,6 +2,8 @@
 ![react-bootstrap-tutorial](https://github.com/AlenaNiku/react-bootstrap-tutorial/blob/master/github%20cover%20.png)
 ### This is a practice project that helps us understand how to implement [**Bootstrap**](https://react-bootstrap.github.io/) with [**React**](https://reactjs.org/) application.
 
+#### Check out my blog post 👉 &nbsp;  <a href="https://medium.com/@alenanikulina0/style-react-apps-with-bootstrap-beginner-friendly-tutorial-e542a84d3309" target="_blank">Style React Apps with Bootstrap 🔥 (Beginner Friendly Tutorial)</a>
+
 ## Available Scripts
 
 In the project directory, you can run:
