@@ -4,6 +4,27 @@
 
 #### Check out my blog post 👉 &nbsp;  <a href="https://medium.com/@alenanikulina0/style-react-apps-with-bootstrap-beginner-friendly-tutorial-e542a84d3309" target="_blank">Style React Apps with Bootstrap 🔥 (Beginner Friendly Tutorial)</a>
 
+## Installation
+### Clone
+
+- Clone this repo to your local machine using `https://github.com/AlenaNiku/react-bootstrap-tutorial.git`
+
+### Setup
+
+> install npm packages and run the development server
+
+- npm install && npm start
+
+> Install Bootstrap with npm
+  
+- npm install bootstrap react-bootstrap
+
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
